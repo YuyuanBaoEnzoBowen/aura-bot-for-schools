@@ -263,5 +263,5 @@ From the **ENT207TC Digital Startup Lab** perspective, this project demonstrates
 
 For questions or collaboration, please contact the project team via:
 
-- GitHub: `@YOUR_GITHUB_USERNAME`
-- Email: `demo@aurabot.ai` (placeholder, replace with real contact if needed)
+- GitHub: YuyuanBaoEnzoBowen
+- Email: Yuyuan.Bao23@student.xjtlu.edu.cn
